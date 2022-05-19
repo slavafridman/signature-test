@@ -1,0 +1,20 @@
+.signature-container {
+    border-style: dashed;
+    border-width: 1px;
+    margin-bottom: 20px;
+    background-color: lightgray;
+    width: 210;
+    height: 210;
+    display: block;
+    position: absolute;
+}
+
+
+
+button {
+    margin-right: 10px;
+    padding: 10px;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+}
